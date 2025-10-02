@@ -57,3 +57,7 @@ O script começará a exibir no terminal os nomes dos Pokémon à medida que bai
 ### Aviso Importante sobre Web Scraping
 
 Este script depende da estrutura do site `pokemondb.net`. Se o site sofrer alterações no seu código HTML, o scraper pode quebrar e precisará de manutenção para funcionar novamente.
+
+## Bônus: Aplicação Pokémon Team Builder
+
+Este projeto também inclui uma aplicação principal na pasta `TeamBuilder`. Nela, é possível gerar uma equipe inicial única e treiná-la para evoluir. Para executar, siga as instruções de instalação e ambiente virtual, e então rode `python main_app.py` dentro da pasta do projeto.
